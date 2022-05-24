@@ -1,2 +1,2 @@
-# KirstenKristensenResume
+# KirstenResume
 Resume Website
